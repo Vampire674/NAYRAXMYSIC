@@ -40,16 +40,16 @@
 
 
 <p align="center">
-<a href="https://telegram.me/SHIVANSHDEVS"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/llKILLER_OPll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐌𝐘 𝐅𝐀𝐓𝐇𝐄𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ITSZ_SHIVANSH"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗨𝗞𝗟𝗔%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/llKILLER_OPll"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐌𝐘 𝐅𝐀𝐓𝐇𝐄𝐑%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/XFLSWAN/SHASHANK/blob/master/sample.env)
+- Get your [Necessary Variables](hhttps://github.com/Vampire674/NAYRAXMYSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
